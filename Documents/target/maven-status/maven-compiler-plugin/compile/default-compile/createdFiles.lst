@@ -1,0 +1,13 @@
+com\docs\repository\UserRepo.class
+com\docs\dto\UserDTO.class
+com\docs\DocumentsApplication.class
+com\docs\entity\User$Role.class
+com\docs\dto\LoginResponseDTO.class
+com\docs\controller\RegistrationController.class
+com\docs\component\JwtUtil.class
+com\docs\controller\LoginController.class
+com\docs\service\RegistrationService.class
+com\docs\config\SecurityConfig.class
+com\docs\entity\User.class
+com\docs\service\RegistrationServiceImpl.class
+com\docs\dto\LoginRequestDTO.class
